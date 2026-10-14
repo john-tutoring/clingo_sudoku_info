@@ -1,6 +1,6 @@
 # Solving Sudoku in 3 Lines with Clingo
 
-This repo goes with the CodeSlate video on solving Sudoku with **Answer Set Programming (ASP)** and the **Clingo** solver. It has the two Sudoku programs from the video and a folder of puzzles to run them on.
+This repo goes with the [CodeSlate video](https://youtu.be/UBFWS6_Hrmc) on solving Sudoku with **Answer Set Programming (ASP)** and the **Clingo** solver. It has the two Sudoku programs from the video and a folder of puzzles to run them on.
 
 The guide covers:
 
